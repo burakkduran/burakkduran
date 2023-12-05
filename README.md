@@ -16,5 +16,5 @@ Please feel free to contact me for any opportunities.
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat" alt="Tailwind CSS"><br>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" alt="GitHub">
-  <img src="https://img.shields.io/badge/React-032426?logo=react&style=flat" alt="React">
+  <img src="https://img.shields.io/badge/React-000000?logo=react&style=flat" alt="React">
 </div>
