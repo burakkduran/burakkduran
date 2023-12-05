@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-As a passionate and motivated web developer, I am constantly seeking out new and exciting projects that challenge me to use my technical abilities to design beautiful, accessible, and functional websites and applications for clients.
+I'm a student at Akdeniz University, passionate about coding and technology.
 
-Please feel free to contact me for any opportunities.
-
+#### Contact
 - Email: burakduraninfo@gmail.com
 - LinkedIn: <a href="https://www.linkedin.com/in/burakkduran/" target=_blank>/in/burakkduran</a>
 
