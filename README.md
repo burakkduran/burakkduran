@@ -3,7 +3,7 @@
 I'm a student at Akdeniz University, passionate about coding and technology.
 
 #### Contact
-- Email: burakduraninfo@gmail.com
+- Email: burak.duran4@gmail.com
 - LinkedIn: <a href="https://www.linkedin.com/in/burakkduran/" target=_blank>/in/burakkduran</a>
 
 #### Languages and Tools
